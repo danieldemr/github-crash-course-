@@ -1,0 +1,55 @@
+[33mcommit f26677157600deb5730fdaf8e8bf73a3788d46fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: b3c6ae1 3a95e10
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 19:29:46 2025 -0600
+
+    ! in title!
+
+[33mcommit b3c6ae124d385f85915872087463fee564d56e85[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 19:28:45 2025 -0600
+
+    ! in title!
+
+[33mcommit 3a95e1042e003efa3d66974454c3bb0df504942a[m[33m ([m[1;32mfeature-restructure[m[33m)[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 19:27:23 2025 -0600
+
+    dot in title
+
+[33mcommit d7ae08900cbd39caffca7448395e95eefc1c7c6d[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 19:25:43 2025 -0600
+
+    merge files
+
+[33mcommit 54825dfbf3d5557fd4418d83481bb939c09ea071[m
+Merge: 3bd3a90 97be085
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 19:23:14 2025 -0600
+
+    merge files
+
+[33mcommit 3bd3a90ce295e64855646cad44936252aae8e5cc[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 18:55:42 2025 -0600
+
+    changed title
+
+[33mcommit 97be085876cc935fe1ae768a7c03b5c7144468af[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Wed Jul 9 18:48:10 2025 -0600
+
+    added links & restructured page
+
+[33mcommit 95b9990328c606862b6498d9fd0a8d3c4093a1a8[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Tue Jul 8 22:31:40 2025 -0600
+
+    added logo and styling
+
+[33mcommit 2405a91f3d6a025b3b4b787edcf4584625441a0f[m
+Author: daniel_demr@hotmail.com <daniel_demr@hotmail.com>
+Date:   Tue Jul 8 19:25:47 2025 -0600
+
+    Initial commit.
